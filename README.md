@@ -11,3 +11,5 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 ### Selanjutnya menggunakan import math
 Untuk kode math.pi menggunakan 3.14, seperti gambar dibawah ini.
 ![gambar1](ss1/sspy1.PNG)
+### Ini adalah hasil output program menghitung luas dan keliling lingkaran
+![gambar1](ss1/sspy2.PNG)
