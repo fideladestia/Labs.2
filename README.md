@@ -8,3 +8,6 @@ r merupakan jari-jari lingkaran
 Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak antara titik pusat dengan tepi lingkaran. Sebetulnya ada rumus lain untuk menghitung keliling lingkaran yaitu dengan menggunakan diameter, tapi pada kasus ini kita cukup menggunakan jari jari lingkaran saja.
 ### Berikut adalah flowchart menghitung luas dan keliling Lingkaran
 ![gambar1](ss1/ssflowchart.PNG)
+### Selanjutnya menggunakan import math
+Untuk kode math.pi menggunakan 3.14, seperti gambar dibawah ini.
+![gambar1](ss1/sspy1.PNG)
